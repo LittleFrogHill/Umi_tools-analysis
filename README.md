@@ -1,11 +1,11 @@
 # Umi_tools-analysis
 analysis the reads with barcode
 
-## Umi_tools extract
+## 01.Umi_tools extract
 using the raw data and put the Umi into the name of the reads
 
-  for i in A006200178_153621_S1 \
-  A006200178_153622_S2 \
+    for i in A006200178_153621_S1 \
+   A006200178_153622_S2 \
   A006200178_153623_S3 \
   A006200178_153624_S4 \
   A006200178_153625_S5 \
