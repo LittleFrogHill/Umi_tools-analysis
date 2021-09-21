@@ -17,4 +17,3 @@ using the raw data and put the Umi into the name of the reads
 
 ## 02.clean data
 using the specific adaptor seq 
-
