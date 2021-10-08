@@ -17,3 +17,9 @@ using the raw data and put the Umi into the name of the reads
 
 ## 02.clean data
 using the specific adaptor seq 
+
+
+
+
+bedtools intersect -a merge.snp.f.bi.vcf.gz -b /home/shangao/Data/EDTA/Ppr/Ppr/Ppr.FINAL.fa.mod.EDTA.TEanno.gff3 -v > merge.snp.f.bi.remove.repeat.vcf.gz
+https://evomics.org/learning/population-and-speciation-genomics/2016-population-and-speciation-genomics/fileformats-vcftools-plink/#ex2.1
